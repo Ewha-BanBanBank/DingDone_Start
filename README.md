@@ -42,5 +42,5 @@ https://github.com/Ewha-BanBanBank/DingDone_Start/tree/main/Classification : Cla
 
 ### 프로젝트 예상 아키텍처
 
-![시나리오] <img src="https://user-images.githubusercontent.com/70934572/145341167-3612f1b3-9759-4f48-a208-f872169dad0e.png" width="300" height="300">
+![시나리오] <img src="https://user-images.githubusercontent.com/70934572/145341167-3612f1b3-9759-4f48-a208-f872169dad0e.png" width="400" >
 
