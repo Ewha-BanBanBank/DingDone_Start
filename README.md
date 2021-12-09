@@ -1,4 +1,4 @@
-# DingDone; Fire Detecting Autonomous Drone
+# DingDone : Fire Detecting Autonomous Drone
 
 ### BanBanBank Organization
 
