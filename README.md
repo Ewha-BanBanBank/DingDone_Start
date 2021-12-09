@@ -1,6 +1,6 @@
 # DingDone : Fire Detecting Autonomous Drone
 
-<img src="https://user-images.githubusercontent.com/70934572/145342196-04b267a5-55d6-4f02-9992-a1ccccadbed1.png"align="center" width="200"  >
+<img src="https://user-images.githubusercontent.com/70934572/145342654-716af606-1b4f-486d-861b-c42913437a2b.png" width="200" >
 
 
 ### BanBanBank Organization
