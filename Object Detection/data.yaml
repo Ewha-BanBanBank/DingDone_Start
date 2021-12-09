@@ -1,8 +1,0 @@
-train : /content/drive/MyDrive/images/train/
-val : /content/drive/MyDrive/images/val/
-
-
-# number of classes
-nc : 1
-# class names
-names : ['fire']
