@@ -33,6 +33,11 @@ https://github.com/Ewha-BanBanBank/DingDone_Start/tree/main/Classification : Cla
 
 
 
+### 프로젝트 예상 아키텍처
+
+<img src="https://user-images.githubusercontent.com/70934572/145341167-3612f1b3-9759-4f48-a208-f872169dad0e.png" width="600" >
+
+
 ### 프로젝트 시나리오
 
 1. 자율주행 도중 산불인식 : 드론이 산 근처를 자율주행을 하며 산불 발생 유무를 Object Detection을 통해 확인 
@@ -40,10 +45,3 @@ https://github.com/Ewha-BanBanBank/DingDone_Start/tree/main/Classification : Cla
 3. 산불인식(이중) 및 드론 위치파악 : 드론에게 받은 영상에서 Classification을 통해 산불이 발생하였는지 정확하게 판단하고 산불이 발생한 위치를 파악
 4. 산불위치 및 영상 전송 : 산불이 발생한 위치와 산불 발생 영상을 실시간으로 사용자의 어플리케이션에 전송
 5. 산불 발생 영상 및 위치 확인 : 사용자는 어플리케이션을 통해 산불 발생 영상과 산불이 발생한 위치를 확인
-
-
-
-### 프로젝트 예상 아키텍처
-
-<img src="https://user-images.githubusercontent.com/70934572/145341167-3612f1b3-9759-4f48-a208-f872169dad0e.png" width="600" >
-
